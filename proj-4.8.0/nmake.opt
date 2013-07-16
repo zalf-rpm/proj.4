@@ -4,7 +4,7 @@
 
 # Directory tree where PROJ will be installed.
 !IFNDEF INSTDIR
-INSTDIR=C:\PROJ
+INSTDIR=..\binaries\win7\vc10\x86
 !ENDIF
 
 # Set the following to the directory where the PROJ distribution data files
